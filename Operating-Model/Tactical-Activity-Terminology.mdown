@@ -1,0 +1,45 @@
+Roles
+========================
+
+As we work together, we have to have a common description of activities. This
+section tries to break down these common terms for better undersatnding.
+
+**Engineering Roles**
+- Coming soon
+
+
+**Growth Roles**
+
+-   If the circus is coming to town, and you paint a sign saying "Circus is coming
+    to the Showground on Saturday", that's **advertising**.
+
+-   If you put the sign on the back of an elephant and walk it into town, that is
+    **promotion**.
+
+-   If the elephant walks through the mayor's flower garden and the local newspaper
+    writes a story about it, that's **publicity**.
+
+-   If you can get the mayor to laugh about it, that's **public relations**.
+
+-   If you get town citizens to go to the circus, showing them the booths, explaining
+    how much fun they will have, answering questions, and ultinmately, they spend
+    a lot at the circus, that's **sales**.
+
+-   IF you plan the entire thing, that's **marketing**.
+
+Marketing is core to what we do. It's the strategy that ties tactics together.
+
+
+** Funnel Stages **
+
+-   A **Prospect** is a potential customer that has never been touched. The
+    primary goal of this stage is to "Get them to know you and indicate interest."
+
+-   A **Target** is an individually identified prospect engaged in a campaign.
+
+-   A **Lead** is someone we are actively engaging that has responded to an
+    offer. The goal of this stage is to "Get them to like you and buy for the
+    first time."
+
+-   A **Customer** is someone we hvae closed. The goal is to "Get them to trust
+    you and buy form you regularly and after."

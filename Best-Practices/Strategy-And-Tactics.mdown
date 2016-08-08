@@ -1,0 +1,32 @@
+Strategy And Tactics
+========================
+
+Understanding the differnece between strategy and tactics is KEY to success.
+
+Strategy is the big picture planning you do prior to execution. Imagine you have
+just purchased an empty block of land and want to build a house. Would you just
+order a pile of bricks and start laying them? NO, you'd hire a builder and
+architect first, and plan.  This work that is done before execution is your
+**strategy**.
+
+Once you have a strategy, you know how many bricks you need, where they go, a
+and what kind of roof you'll have, you can hire a bricklayer, carpenter, plumber,
+etc.  That's **tactics**.
+
+-    You can't do anything worthwhile without both straegy and tactics.
+
+-    Strategy without tactics leads to analysis by paralysis. No matter how good
+     the builder and architect are, the house won't get built unless someone
+     starts laying bricks.  Strategists will need to, at some point, stop and
+     say "The blueprint is now good enough. Let's go start laying some brick."
+
+-    Tactics without strategy leads to "bright shiny object syndrome". Imagine you
+     start building a wall without any plans, and figure out its in the wrong
+     place, so you start pouring the foundation and figure out its not right
+     for teh type of house, so you start excavating the area you want the pool
+     and it's not right either. This clearly is a bad idea, but it's how many
+     people do their marketing.  Keep turning over rocks until you hit a customer,
+     instead of having a plan.
+
+So, having both in alignment is key. As was said by Thomas Watson at IBM in the
+early days of the computing age: "Nothing happens until a sale is made."

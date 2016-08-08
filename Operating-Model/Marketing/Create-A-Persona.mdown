@@ -1,0 +1,20 @@
+Create A Persona
+===================
+
+Building a detailed undersatnding of the persona is important, so you can
+tune your messaging and voice of the offer to them. Things to focus on are:
+
+-    CVS/BVS: How do they do this today? Why is it painful? What
+     is the improved sitaution? Is it 10x?
+
+-    Buying process: How would this person buy? In consensus? Key decision
+     maker? Authority?
+
+-    Structural Limitations: Do they have any external/interal limitations that
+     keep them from moving TODAY, for example, an annual agreement for similar
+     software.
+
+-    Demographics: Age, education, social queues that might impact opportunity.
+
+-    Archetypes: What is the traditional archetype that this person would fall
+     into?
