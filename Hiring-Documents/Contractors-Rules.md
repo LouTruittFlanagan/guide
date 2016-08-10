@@ -29,7 +29,7 @@ If you are paid on a monthly contract at a fixed rate, you MUST STILL supply dai
 are less than this 80% threshold, we reserve the right to adjust your invoice to the actual time worked on tickets\/tasks.
 
 In both cases, it is not acceptable to submit daily time tracking for billing that has an undescriptive or generic description of your activities. When this occurs, and we cannot correlate your work to an actual task without significant effort on our part, it will not count for the purposes of your billing and
-payments. 
+payments.
 
 Ultimately, it is YOUR responsibility to ensure your time tracking and billing shows the specific actions and activities you work on, submitted in a verifiable way. Without this, we cannot pay you for this work.
 
@@ -82,8 +82,7 @@ lot of unnecessary work we have to pay for so you can have the pleasure of not h
 
 Once we establish trust, we can enable SOME manual billing. But, you must get approval for manual time before starting to log manual time. If you “have a problem” and “can’t bill because of a problem” and need manual time, that will not be acceptable.
 
-As we transition away from UpWork to a direct relationship, we will wire transfer funds to you.. It’s expected that we will remove any wire transfer fees from the amount we pay you, and you will continue to get paid the same amount. This is in your benefit, as there is a 10% fee we are paying UpWork. The wire transfer fee is less. 
-
+As we transition away from UpWork to a direct relationship, we will wire transfer funds to you.. It’s expected that we will remove any wire transfer fees from the amount we pay you, and you will continue to get paid the same amount. This is in your benefit, as there is a 10% fee we are paying UpWork. The wire transfer fee is less.
 
 Understand that we will require a modification to our schedule \(we won’t pay you weekly\) to conform with other direct employee payments \(at the time of this writing 15th and EOM\).
 
@@ -94,13 +93,15 @@ It is at the company's discretion when any of these changes happen.
 It’s unfortunately all too common for remote contractors to fake\/load hours. If we EVER find this to be the case, you will be immediately terminated. In addition, to the fullest extent of power we have, we will ensure that any third
 party service we use, such as UpWork, understands that we have found intentionally incorrect billing, and will take action.
 
+If you need more work, ask for it. Don't fake your time. 
+
 **These rules, and all decisions related to your employment and compensation are ultimately at the discretion of your manager or the leadership of the company.**
 
 At the end of the day, the company and its executive staff have final say on what happens, what you do, whether it’s acceptable, and what you get paid. While we will attempt to be fair and reasonable, we have to protect the interests of the company first and foremost over your personal interests.
 
-There is nothing personal about this. If you don’t follow these rules, and get your job done, we have to make corrective actions. These may not be things you like, and you might disagree with them. But, the decisions made by the Board of Directors, and executive team are final and binding.  In all matters related to compensation, billing and payments, you agree to be bound by the decisions of the CEO, Board of Directors, and the Compensation Committee of the Board of Directors.  
+There is nothing personal about this. If you don’t follow these rules, and get your job done, we have to make corrective actions. These may not be things you like, and you might disagree with them. But, the decisions made by the Board of Directors, and executive team are final and binding.  In all matters related to compensation, billing and payments, you agree to be bound by the decisions of the CEO, Board of Directors, and the Compensation Committee of the Board of Directors.
 
-**Should things get bad, you agree to a third party arbitrator of the company's choosing to resolve the matter. ** 
+**Should things get bad, you agree to a third party arbitrator of the company's choosing to resolve the matter. **
 
-As a condition of your employment, you agree that should a dispute arise that requires a third party to resolve, you agree that the company may choose a neutral arbitrator to settle the dispute.  Should the arbitrator rule in favor of the company, you agree to pay for the arbitrators time and expenses. 
+As a condition of your employment, you agree that should a dispute arise that requires a third party to resolve, you agree that the company may choose a neutral arbitrator to settle the dispute.  Should the arbitrator rule in favor of the company, you agree to pay for the arbitrators time and expenses.
 
