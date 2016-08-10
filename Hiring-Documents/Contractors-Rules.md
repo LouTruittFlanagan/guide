@@ -93,15 +93,15 @@ It is at the company's discretion when any of these changes happen.
 It’s unfortunately all too common for remote contractors to fake\/load hours. If we EVER find this to be the case, you will be immediately terminated. In addition, to the fullest extent of power we have, we will ensure that any third
 party service we use, such as UpWork, understands that we have found intentionally incorrect billing, and will take action.
 
-If you need more work, ask for it. Don't fake your time. 
+If you need more work, ask for it. Don't fake your time.
 
-**These rules, and all decisions related to your employment and compensation are ultimately at the discretion of your manager or the leadership of the company.**
+**These rules, and all decisions related to your employment and compensation are ultimately at the discretion of your manager and the leadership of the company.**
 
-At the end of the day, the company and its executive staff have final say on what happens, what you do, whether it’s acceptable, and what you get paid. While we will attempt to be fair and reasonable, we have to protect the interests of the company first and foremost over your personal interests.
+At the end of the day, company executive staff has final say on what happens, what you do, whether it’s acceptable, and what you get paid. While we will attempt to be fair and reasonable, we have to protect the interests of the company first and foremost over your personal interests.
 
 There is nothing personal about this. If you don’t follow these rules, and get your job done, we have to make corrective actions. These may not be things you like, and you might disagree with them. But, the decisions made by the Board of Directors, and executive team are final and binding.  In all matters related to compensation, billing and payments, you agree to be bound by the decisions of the CEO, Board of Directors, and the Compensation Committee of the Board of Directors.
 
-**Should things get bad, you agree to a third party arbitrator of the company's choosing to resolve the matter. **
+**You agree to a third party arbitrator of the company's choosing to resolve matters that cannot amicably be resolved. **
 
 As a condition of your employment, you agree that should a dispute arise that requires a third party to resolve, you agree that the company may choose a neutral arbitrator to settle the dispute.  Should the arbitrator rule in favor of the company, you agree to pay for the arbitrators time and expenses.
 
