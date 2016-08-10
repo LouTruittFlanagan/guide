@@ -1,10 +1,10 @@
-For contractors, there are some additional rules that are required for you to be paid in full for your work at OMAlab.
+For contractors and remote employees, there are some additional rules that are required for you to be paid in full for your work at OMAlab.
 
 **You are budgeted at 7 hours a day of productive work.**
 
 This means that you are expected to work that amount of time regularly and consistently, and at peak performance. Sometimes we might have to work more, but the plan is for you to work 7 hours a day \(unless your contract is for less hours\).
 
-**You are expected to be a FULL time person. That means you don’t work other jobs.**
+**If you are billing more than 30 hours per week, you are expected to be a FULL time person. That means you don’t work other jobs.**
 
 We manage you at 7 hours a day because it’s not possible for a person to work 70 hours a week regularly and not burn out. So, given that we are expecting you to have a reasonable work schedule, this does NOT give you the right to add another 35 hour\/week job on top of our work. It is expected you will rest and renew the other times\/days.
 
