@@ -6,3 +6,4 @@
 * [Tribe Agreements](agreements.md)
 * [Conflict Resolution Process](Conflict.md)
 * [General Guidelines](guidelines.md)
+
