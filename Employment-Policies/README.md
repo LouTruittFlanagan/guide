@@ -6,5 +6,5 @@
 * [Code of Conduct in the Community](Code-of-Conduct-in-the-Community.md)
 * [Complaint Policy](Complaint-Policy.md)
 * [Drug and Alcohol Policy](Drug-and-Alcohol-Policy.md)
-* Contractor and Remote Employee Supplemental Policy
+* [Contractor and Remote Employee Supplemental Policy](/Hiring-Documents/Contractors-Rules.md)
 
