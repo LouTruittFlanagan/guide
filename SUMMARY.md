@@ -50,6 +50,8 @@
    * [Sabbatical](Benefits-and-Perks/Sabbatical.md)
    * [New Parent Leave](Benefits-and-Perks/New-Parent-Leave.md)
    * [Other Protected Absences](Benefits-and-Perks/Other-Protected-Absences.md)
+* [Best Practices](Best-Practices/README.md)
+   * [Identify Your 4%](Best-Practices/Identify-Your-4-Percent.mdown)
 * [Contributing](CONTRIBUTING.md)
 * [Acknowledgements](Acknowledgements.md)
 
