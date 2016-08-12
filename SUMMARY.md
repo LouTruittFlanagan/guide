@@ -52,5 +52,4 @@
    * [Other Protected Absences](Benefits-and-Perks/Other-Protected-Absences.md)
 * [Contributing](CONTRIBUTING.md)
 * [Acknowledgements](Acknowledgements.md)
-* Best Practices
 
